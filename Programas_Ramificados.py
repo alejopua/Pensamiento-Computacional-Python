@@ -1,6 +1,6 @@
 # Este programa compara las edades de dos usuarios.
 # y menciona quien es mayor y por cuantos años.
-# Pregunta nombre y edad.
+# El programa solicita digitación del nombre y edad.
 
 def cal_edad(nombre_user1, nombre_user2, edad_user1, edad_user2):
     if edad_user1 > edad_user2:
