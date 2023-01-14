@@ -20,3 +20,5 @@ if abs(respuesta**2 - objetivo) >= epsilon:
 else:
     print(f'La raiz cuadrada de {objetivo} es {respuesta}')
     print(f'Tardo {tiempo_total} segundos')
+
+
